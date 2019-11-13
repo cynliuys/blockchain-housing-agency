@@ -7,7 +7,7 @@ class Home extends Component {
     render() {
         return (
             <img 
-            src="https://coinrussia.ru/wp-content/uploads/2018/11/Depositphotos_206337806_l-2015-1.jpg"
+            src="https://lh3.google.com/u/0/d/1j5i5R40ZyilPZMHRppvAh2V7SJz0Teh6=w2000-h2660-iv1"
             alt="new"
             width={1250} 
             height={560}
