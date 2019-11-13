@@ -3,8 +3,8 @@
 ![image](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/img/home.png)
 
 * This project was developed by [Cynthia Liu](https://github.com/CynthiaYLiu), [Pierre Sue](https://github.com/PierreSu), and [Danny Tsai](https://github.com/dannyInc).<br>
-* More details : [Poster](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/report/Fianl_poster.pdf) 
-* Demo : [Video](https://www.youtube.com/watch?v=ujUNZ1e1UBQ&feature=youtu.be).
+* More details in poster: https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/report/Fianl_poster.pdf
+* Demo video: https://www.youtube.com/watch?v=ujUNZ1e1UBQ&feature=youtu.be
 
 
 ## Functions
