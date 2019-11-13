@@ -3,12 +3,21 @@
 ![image](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/img/home.png)
 
 * This project was developed by [Cynthia Liu](https://github.com/CynthiaYLiu), [Pierre Sue](https://github.com/PierreSue), and [Danny Tsai](https://github.com/dannyInc).<br>
-* More details in poster: https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/report/Fianl_poster.pdf
-* Demo video: https://www.youtube.com/watch?v=ujUNZ1e1UBQ&feature=youtu.be
+* More details in poster : https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/report/Fianl_poster.pdf
+* Demo video : https://www.youtube.com/watch?v=ujUNZ1e1UBQ&feature=youtu.be
 
 
 ## Functions
-
+![image](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/img/bar.png)
+* Add new wallet
+    * Create account
+    * Get a private key
+* Create new cointype
+    * A cointype represents a house as a pile of tokens
+* Add coin
+    * Put a house in the blockchain housing market
+* Transaction(send coin)
+* Check the balance(with multiple coins)
 
 
 ## How to run this project?
