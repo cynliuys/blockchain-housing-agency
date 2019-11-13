@@ -1,6 +1,8 @@
 # NMLab final project : Housing Agency System
 
-## How to run the project?
+![image](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/img/home.png)
+
+## How to run this project?
 
 ### Server
 It is required to install some libraries on your computer in advance. (ex.numpy, ecdsa... )
