@@ -1,8 +1,8 @@
 # NMLab final project : Housing Agency System
 
-### How to run the project?
+## How to run the project?
 
-## Server
+### Server
 It is required to install some libraries on your computer in advance. (ex.numpy, ecdsa... )
 First, we should open the control panel of servers.
 ```bash
@@ -28,18 +28,19 @@ $ cd real_estate_agents
 $ bash run4.sh
 ```
 
-## Client
+### Client
 If the client and server are not on the same host, we should change the 'HOST' into server's fixed IP address in client/client.py <br>
-Install **Flask** first !!
+Before going down, install **Flask** first !!
 
-### Run Backend
+* Run Backend
 ```bash
 $ flask run 
 ```
 
-### Run Frontend
+* Run Frontend
 ```bash
 $ cd react-frontend
+$ npm install
 $ npm start
 ```
 And then you can browse our website!
