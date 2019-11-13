@@ -17,7 +17,7 @@
 * Add coin
     * Put a house in the blockchain housing market
 * Transaction(send coin)
-* Check the balance(with multiple coins)
+* Check the balance(show multiple coins balance)
 
 
 ## How to run this project?
