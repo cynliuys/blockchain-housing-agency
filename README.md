@@ -1,11 +1,10 @@
 # NMLab final project : Housing Agency System
-https://www.youtube.com/watch?v=ujUNZ1e1UBQ&feature=youtu.be
+**Consortium Blockchain** for housing agency to share real-time information and to record housing transactions. Built with Python and React for the user interface.
 ![image](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/img/home.png)
 
-Consortium Blockchain for housing agency to share real-time information and to record housing transactions. Built with Python and React for the user interface.<br>
-This project was developed by [Cynthia Liu](https://github.com/CynthiaYLiu), [Pierre Sue](https://github.com/PierreSu), and [Danny Tsai](https://github.com/dannyInc).<br>
-More details : [Poster](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/report/Fianl_poster.pdf) 
-Demo : [Video](https://www.youtube.com/watch?v=ujUNZ1e1UBQ&feature=youtu.be).
+* This project was developed by [Cynthia Liu](https://github.com/CynthiaYLiu), [Pierre Sue](https://github.com/PierreSu), and [Danny Tsai](https://github.com/dannyInc).<br>
+* More details : [Poster](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/report/Fianl_poster.pdf) 
+* Demo : [Video](https://www.youtube.com/watch?v=ujUNZ1e1UBQ&feature=youtu.be).
 
 
 ## Functions
