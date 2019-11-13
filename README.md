@@ -2,7 +2,7 @@
 **Consortium Blockchain** for housing agency to share real-time information and to record housing transactions. Built with Python and React for the user interface.
 ![image](https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/img/home.png)
 
-* This project was developed by [Cynthia Liu](https://github.com/CynthiaYLiu), [Pierre Sue](https://github.com/PierreSu), and [Danny Tsai](https://github.com/dannyInc).<br>
+* This project was developed by [Cynthia Liu](https://github.com/CynthiaYLiu), [Pierre Sue](https://github.com/PierreSue), and [Danny Tsai](https://github.com/dannyInc).<br>
 * More details in poster: https://github.com/CynthiaYLiu/blockchain-housing-agency/blob/master/report/Fianl_poster.pdf
 * Demo video: https://www.youtube.com/watch?v=ujUNZ1e1UBQ&feature=youtu.be
 
